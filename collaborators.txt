@@ -3,5 +3,6 @@
 3. Rahmatullah Ishaq (pen tester)
 4. Usama Taheer Maheer (AI & Cyber Risk Engineer)
 5. Abdulmumin Sadiq (AI Developer) 
-6. Agoro Bilikisu (Web Developer)
-7. Shuaibu Muhammad Hassan (Web Developer)
+6. Shuaibu Muhammad Hassan (Web Developer)
+7. Agoro Bilikisu (Web Developer)
+7. Agoro Bilikisu (Web developer)
