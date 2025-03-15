@@ -1,7 +1,9 @@
 1. Abdul-barr Shonibare (Admin)
 2. Full-Name (Specialization)
 3. Rahmatullah Ishaq (pen tester)
-4. Usama Taheer Maheer (AI & Cyber Risk Engineer)
+4. Usama Taheer Maheer (AI & Cyber Risk Engineer
+5. Imran Aminu Abubakar (AI Developer)
 5. Abdulmumin Sadiq (AI Developer) 
 6. Agoro Bilikisu (Web Developer)
 7. Shuaibu Muhammad Hassan (Web Developer)
+
